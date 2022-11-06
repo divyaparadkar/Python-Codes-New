@@ -1,0 +1,2 @@
+print('add your age and you father's age:')
+print(int(input().(int(input()))
